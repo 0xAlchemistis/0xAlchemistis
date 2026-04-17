@@ -66,7 +66,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/0xAlchemistis/0xAlchemistis/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/0xAlchemistis/0xAlchemistis/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
