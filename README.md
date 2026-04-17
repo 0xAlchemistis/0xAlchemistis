@@ -5,31 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=900&lines=Web3+Execution+Engineer;Low-Latency+System+Architect;Solana+%2F+Rust+Infrastructure+Builder;MEV+%2F+Trading+Automation+Developer;On-Chain+Data+Streaming+Specialist" />
 </p>
+# 🧪 TECH STACK
 
 <p align="center">
-  Engineering high-speed blockchain systems, automation engines, and real-time execution infrastructure for Web3.
-</p>
-
----
-
-# ⚡ SYSTEM STATUS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ON--CHAIN%20ACTIVE-00ff9f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RPC-STREAMING-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EXECUTION-LOW%20LATENCY-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MEV-RESEARCHING-purple?style=for-the-badge"/>
-</p>
-
----
-
-# 🧬 ABOUT ME
-
-- ⚙️ Web3 Engineer focused on **execution-layer systems**
-- ⚡ Building **ultra-low latency trading bots & automation engines**
-- ⛓ Specializing in **Solana, Rust, MEV systems, RPC optimization**
-- 🧠 Backend architecture using **Node.js, TypeScript, Redis, PostgreSQL**
-- 🚀 Obsessed with **concurrency, performance tuning, and system design**
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,postgres,redis,docker,linux,git,nginx" />
+</p> 
 
 ---
 
@@ -45,9 +25,7 @@
 
 ---
 
-# 🧠 3D WEB3 DASHBOARD
-
-> Simulasi tampilan “execution system dashboard”
+# 🧠 3D WEB3 DASHBOARD 
 
 <p align="center">
 
@@ -69,91 +47,9 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAlchemistis&theme=react-dark&bg_color=0d1117&hide_border=true&line=00ff9f&point=00ff9f" />
-</p>
+</p> 
 
----
-
-# 🧩 3D DASHBOARD CARDS (WEB3 STYLE LAYOUT)
-
-<p align="center">
-
-<table>
-<tr>
-
-<td align="center" style="border-radius:12px;">
-  
-### ⚡ Execution Layer  
-Low-latency trade execution systems  
-MEV-aware automation engines  
-
-</td>
-
-<td align="center">
-
-### ⛓ Blockchain Layer  
-Solana RPC streaming  
-On-chain data pipelines  
-
-</td>
-
-<td align="center">
-
-### 🧠 Intelligence Layer  
-Signal detection systems  
-Mempool & event processing  
-
-</td>
-
-</tr>
-</table>
-
-</p>
-
----
-
-# 🧪 TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,postgres,redis,docker,linux,git,nginx" />
-</p>
-
----
-
-# 🔥 REAL-TIME THINKING MODEL
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/INPUT-On--Chain%20Events-00ff9f?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROCESS-Streaming%20Engine-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/OUTPUT-Execution%20Signal-black?style=flat-square"/>
-
-</p>
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-00ff9f?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# 👁 VISIBILITY
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xAlchemistis&label=Execution%20Views&color=00ff9f&style=flat"/>
-</p>
-
----
+--- 
 
 <p align="center">
 ⚗️ Turning latency into advantage. Turning code into execution power.
